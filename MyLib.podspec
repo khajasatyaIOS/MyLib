@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 T"This library is useful for creating the Done button on keyboard for Textfield and TextView."
                        DESC
 
-  s.homepage         = 'https://github.com/Satya/MyLib'
+  s.homepage         = 'https://github.com/khajasatyaIOS/MyLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Satya' => 'khajasatyaios@gmail.com' }
-  s.source           = { :git => 'https://github.com/Satya/MyLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/khajasatyaIOS/MyLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
