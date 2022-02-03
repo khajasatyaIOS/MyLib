@@ -32,9 +32,6 @@ T"This library is useful for creating the Done button on keyboard for Textfield 
 
   s.source_files = 'Classes/**/*.swift'
   s.swift_version = '5.0'
-  s.platforms = {
-      "ios" : "13.0"
-  }
   
   # s.resource_bundles = {
   #   'MyLib' => ['MyLib/Assets/*.png']
